@@ -1,0 +1,23 @@
+h1,
+h2,
+h4 {
+    text-align: center;
+}
+
+div {
+    text-align: center;
+}
+
+img {
+    height: auto;
+    width: 400px;
+}
+
+ul li {
+    color: red;
+}
+
+ol li {
+    color: green;
+    font-size: 14pt;
+}
